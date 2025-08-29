@@ -1,6 +1,6 @@
-# Website Update Monitor
+# Website Update Scanner
 
-A Python program that monitors websites for changes and uses AI (via Groq API) to intelligently summarize what has been updated. Perfect for tracking professor's websites, webcomics, job boards, or any content that updates regularly.
+A Python program that scans websites for changes and uses LLMs (via Groq API) to intelligently summarize what has been updated. Perfect for tracking class websites, webcomics, job boards, or any content that updates regularly.
 
 ## Requirements
 
